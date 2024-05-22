@@ -1,0 +1,78 @@
+.box{
+    border: 2px solid rgb(67, 98, 99);
+    margin-top: 5%;
+    margin-left: 28%;
+    margin-right: 30%;
+    padding: 5%;
+} 
+
+ body{
+    background-image: url("https://t3.ftcdn.net/jpg/06/67/65/38/360_F_667653865_0PQ8FGBu3eKtvKDgfm0CRpK3gTJRK1db.jpg");
+    background-size: cover;
+} 
+header{
+    background-color:black;
+}
+#logo{
+    margin-left: 1%;
+
+}
+.navigation{
+    float: right;
+    margin-top: 26px;
+    margin-right: 50px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    text-decoration: none;
+    border: 5px solid rgb(201, 131, 131);
+    padding: 20px;
+}
+.navigation a:hover{
+    background-color: chartreuse;
+    color:lightseagreen;
+}
+.side{
+    color: white;
+    margin: 100px;
+    width: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+}
+.side h3{
+    margin-bottom: 15px;
+
+}
+.side li{
+    list-style: square;
+    padding: 2px;
+}
+.login{
+    border: 1px solid rgb(61, 101, 155);
+    float: right;
+    /* background-color: rgb(252, 252, 252); */
+    margin-top: 60px;
+    height: 26em;
+    margin-right: 231px;
+    padding: 30px;
+}
+#btn{
+    background-color:azure(159, 186, 212);
+    width: 100%;
+}
+.login h2{
+    text-align: center;
+}
+.login{
+  text-align: center;
+}
+
+.home{
+    text-align: center;
+    
+}
+#an{
+    color: white;
+    text-decoration: none;
+}
